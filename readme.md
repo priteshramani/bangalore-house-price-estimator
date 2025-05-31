@@ -3,7 +3,7 @@
 ```markdown
 # 🏠 Bangalore House Price Estimator 📊
 ```
-```markdown
+```
 A complete data science project that predicts house prices in Bangalore based on area, number of bedrooms, bathrooms, and location.  
 This repository includes an **end-to-end machine learning pipeline**, from data cleaning and model training in a **Jupyter Notebook** to a live, interactive **Streamlit web application** for real-time price prediction.
 ```
