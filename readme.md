@@ -19,8 +19,8 @@ This repository includes an **end-to-end machine learning pipeline**, from data 
 ├── 📄 columns.json                  # Data columns and location encodings\
 ├── 📄 app.py                        # Streamlit frontend for interactive house price estimation\
 ├── 📄 requirements.txt              # Python dependencies\
-└── 📄 README.md                     # Project overview and instructions\
-├── 📄 LICENSE                       # License file (restricts reuse/modification)\
+├── 📄 README.md                     # Project overview and instructions\
+└── 📄 LICENSE                       # License file (restricts reuse/modification)\
 
 ```
   
