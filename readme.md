@@ -13,7 +13,7 @@ This repository includes an **end-to-end machine learning pipeline**, from data 
 
 ```ruby
 
-📦 project/\
+📦 project/
 ├── 📓 banglore_home_price.ipynb     # Data cleaning, EDA, model building, hyperparameter tuning \
 ├── 📄 model.pickle                  # Trained ML model\               
 ├── 📄 columns.json                  # Data columns and location encodings\
